@@ -2,7 +2,7 @@
 
 This is the simplest possible python api using flask that responds with: 
 ```
-Hello, world!
+Sarik Khan
 ```
 
 ## Deploy to Cyclic in seconds 
